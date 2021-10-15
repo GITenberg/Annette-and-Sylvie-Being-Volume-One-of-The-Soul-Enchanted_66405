@@ -1,0 +1,36 @@
+_repo: Annette-and-Sylvie-Being-Volume-One-of-The-Soul-Enchanted_66405
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Redman, Ben Ray
+    gutenberg_agent_id: '53795'
+    url: http://www.gutenberg.org/2009/agents/53795
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Romain_Rolland
+    - https://fr.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_issued: '2021-09-28'
+identifiers:
+  gutenberg: '66405'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/004461391
+pgterms:marc905: 20210723080538rolland
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues
+publication_note: United States :Henry Holt and Company,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Annette and Sylvie: Being Volume One of The Soul Enchanted'
+url: http://www.gutenberg.org/ebooks/66405
