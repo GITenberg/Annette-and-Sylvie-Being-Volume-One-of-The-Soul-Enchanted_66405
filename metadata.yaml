@@ -5,6 +5,9 @@ contributor:
     agent_name: Redman, Ben Ray
     gutenberg_agent_id: '53795'
     url: http://www.gutenberg.org/2009/agents/53795
+covers:
+- cover_type: archival
+  image_path: 66405-h/images/annette_cover.jpg
 creator:
   author:
     agent_name: Rolland, Romain
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Romain_Rolland
     - https://fr.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66405#Annette-and-Sylvie-Being-Volume-One-of-The-Soul-Enchanted
 gutenberg_issued: '2021-09-28'
 identifiers:
   gutenberg: '66405'
